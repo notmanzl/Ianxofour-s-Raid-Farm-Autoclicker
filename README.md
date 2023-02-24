@@ -2,7 +2,7 @@
 This is a simple AutoHotkey script to auto click on [Ianxofour's Stacking Raid Farm](http://https://www.youtube.com/watch?v=n3mOlrMGjUg "Ianxofour's Stacking Raid Farm").
 
 ## How to use
-1. Simply download the .exe from [Releases](https://github.com/notmanzl/ianxofour-raidfarm-autoclick/releases "Releases")
+1. Simply download the .exe from [Releases](https://github.com/notmanzl/Ianxofour-s-Raidfarm-Autoclicker/releases "Releases")
 2. Open the .exe
 3. Put yourself in position and press **O**
 4. Press **O** again to disable the AutoClicker.
