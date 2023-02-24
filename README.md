@@ -1,5 +1,5 @@
 # Ianxofour's Stacking Raid Farm Autoclicker
-This is a simple AutoHotkey script to auto click on [Ianxofour's Stacking Raid Farm](http://https://www.youtube.com/watch?v=n3mOlrMGjUg "Ianxofour's Stacking Raid Farm").
+This is a simple AutoHotkey script to auto click on [Ianxofour's Stacking Raid Farm](https://www.youtube.com/watch?v=n3mOlrMGjUg "Ianxofour's Stacking Raid Farm").
 
 ## How to use
 1. Simply download the .exe from [Releases](https://github.com/notmanzl/Ianxofour-s-Raidfarm-Autoclicker/releases "Releases")
